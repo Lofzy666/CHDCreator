@@ -2,6 +2,12 @@
 
 A Windows desktop application that batch-converts disc image files to CHD (Compressed Hunted Drive) format, commonly used for retro gaming emulation.
 
+
+<img width="842" height="868" alt="CHDCreator" src="https://github.com/user-attachments/assets/622d7ff8-ffcf-49aa-a30a-cff67bf75814" />
+
+<img width="848" height="858" alt="CHDCreator usage" src="https://github.com/user-attachments/assets/9008a15f-f2fc-4af4-83fe-85eebd6264f6" />
+
+
 ## Features
 
 - **Batch Processing**: Convert multiple disc images at once
