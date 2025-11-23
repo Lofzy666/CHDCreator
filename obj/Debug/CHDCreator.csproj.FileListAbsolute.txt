@@ -1,0 +1,6 @@
+C:\CHDCreator\obj\Debug\CHDCreator.csproj.AssemblyReference.cache
+C:\CHDCreator\obj\Debug\CHDCreator.csproj.CoreCompileInputs.cache
+C:\CHDCreator\bin\Debug\CHDCreator.exe
+C:\CHDCreator\bin\Debug\CHDCreator.pdb
+C:\CHDCreator\obj\Debug\CHDCreator.exe
+C:\CHDCreator\obj\Debug\CHDCreator.pdb

@@ -1,0 +1,14 @@
+Summary
+CHD Creator is a Windows Forms application that batch-converts disc image files to CHD (Compressed Hunted Drive) format, commonly used for retro gaming emulation.
+
+Key Features:
+
+File Discovery: Searches for compressed archives (.7z, .zip) and disc images (.cue, .iso) in selected directories with optional recursive search
+Archive Extraction: Automatically extracts archives using 7z before processing
+Format Conversion: Converts .cue and .iso files to .chd format using the chdman tool
+Flexible Processing: Options to process compressed archives, direct disc image files, or both
+Cleanup Control: Can optionally keep or delete original archives and extracted files after conversion
+Progress Tracking: Shows real-time conversion progress via progress bar and detailed logging
+Log Output: Displays operation logs in-app with optional file-based logging to conversion.log
+Embedded Tools: Bundles 7z.exe and chdman.exe as embedded resources
+The app essentially automates the workflow of extracting compressed game disc images and converting them to CHD format, useful for organizing large collections of retro games.

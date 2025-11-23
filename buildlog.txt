@@ -1,0 +1,12 @@
+Build started at 12:32...
+1>------ Build started: Project: CHDCreator, Configuration: Debug Any CPU ------
+1>C:\CHDCreator\CHDCreator.cs(30,13,30,32): error CS0103: The name 'InitializeComponent' does not exist in the current context
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 12:32 and took 00.396 seconds ==========
+
+Build started at 12:33...
+1>------ Build started: Project: CHDCreator, Configuration: Debug Any CPU ------
+1>  CHDCreator -> C:\CHDCreator\bin\Debug\CHDCreator.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 12:33 and took 01.162 seconds ==========
+
